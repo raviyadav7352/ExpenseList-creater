@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expenselist-creater/static/css/main.da34d688.css",
+    "main.js": "/Expenselist-creater/static/js/main.bb647bb6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Expenselist-creater/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Expenselist-creater/index.html",
+    "main.da34d688.css.map": "/Expenselist-creater/static/css/main.da34d688.css.map",
+    "main.bb647bb6.js.map": "/Expenselist-creater/static/js/main.bb647bb6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Expenselist-creater/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da34d688.css",
+    "static/js/main.bb647bb6.js"
+  ]
+}
